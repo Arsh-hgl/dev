@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://www.healthygracefullifestyle.com/sitemap.xml
